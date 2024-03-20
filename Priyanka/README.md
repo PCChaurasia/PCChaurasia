@@ -7,11 +7,11 @@
 - ⚡ Fun fact: ...
 - 🙋‍♂️ About Me
 - 🔭 I’m from 2020 passed out batch.
-🌱 I’m currently learning ... Web 3.0
-👊🤜 I always had a fight with me VS me
-💬 Ask me about ... Core Java, Spring Boot, Data Structures & Algorithms 
-📫 How to reach me: ... pcdolly1@gmail.com
-⚡ Fun fact: ... I love to solve problems. I can do leetcode problems all day
+-🌱 I’m currently learning ... Web 3.0
+-👊🤜 I always had a fight with me VS me
+-💬 Ask me about ... Core Java, Spring Boot, Data Structures & Algorithms 
+-📫 How to reach me: ... pcdolly1@gmail.com
+-⚡ Fun fact: ... I love to solve problems. I can do leetcode problems all day
 
 <!---
 PCChaurasia/PCChaurasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
