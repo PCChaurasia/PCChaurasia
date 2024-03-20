@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+It's+Akshit+Kumar+Chandora!;I'm+a+Software+Developer.;%E2%9D%A4+Java+LeetCode+Spring+Boot;I+%E2%9D%A4+DSA.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+It's+Priyanka+Chaurasia!;I'm+a+Software+Developer.;%E2%9D%A4+Java+LeetCode+Spring+Boot;I+%E2%9D%A4+DSA.)](https://git.io/typing-svg)
   
  </div>
  
  ## 🙋‍♂️ About Me
-- 🔭 I’m from 2020 passed out batch.
-- 🌱 I’m currently learning ... **Web 3.0**
+- 🔭 I’m from 2023 passed out batch.
+- 🌱 I’m currently learning ... **Spring Boot**
 - 👊🤜 I always had a fight with me VS me
 - 💬 Ask me about ... Core Java, Spring Boot, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
-- 📫 How to reach me: ... **axitchandora@gmail.com**
+- 📫 How to reach me: ... **pcdolly1@gmail.com**
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
